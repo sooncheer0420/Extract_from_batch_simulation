@@ -8,5 +8,6 @@
 #### This program is an example for batch extraction, and the example of resource are given
 
 #### By Sun Chang
+#### Institute of Design Engineering
 #### Zhejiang University
-#### For any further program and question, contact sunchang.eng@gamil.com
+#### For any further program and question, contact sunchang.eng@outlook.com
